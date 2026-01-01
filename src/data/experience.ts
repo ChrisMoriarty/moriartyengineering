@@ -2,8 +2,35 @@ import type { Props as ExperienceProp } from "../components/experience/props";
 
 export const EXPERIENCE: ExperienceProp[] = [
   {
-    dates: "October 2024 — Present",
-    title: "Cloud Engineer",
+    dates: "April 2025 — Current",
+    title: "Independant Software Engineer",
+    company: "Moriarty Engineering",
+    companyUrl: "https://www.moriartyengineering.com",
+    description:
+      "I designed and shipped a series of end-to-end software and hardware projects spanning embedded systems, \
+      full-stack web development, infrastructure, and game development. Highlights include building an \
+      ESP32/CircuitPython system that delivers real-time subway arrival data to an LED matrix display; \
+      creating and self-hosting a web comic platform using Svelte and PM2; architecting and operating a personal \
+      virtualization lab with 20+ VMs and 40+ containers to securely provide open-source alternatives to common \
+      cloud services for friends and family; developing a real-time location-aware web application for \
+      Somerville Porchfest 2025; and releasing a small cross-platform game built with the Godot engine. \
+      Collectively, these projects demonstrate strong ownership, systems thinking, and the ability to take ideas \
+      from concept through deployment and real-world use.",
+    technologies: [
+      "XCP-ng",
+      "Xen Orchestra",
+      "SAN",
+      "Networking",
+      "ESP32",
+      "Python",
+      "Docker Compose",
+      "Svelte",
+    ],
+    logo: "/logos/mpc.png",
+  },
+  {
+    dates: "October 2024 — April 2025",
+    title: "Virtualization Infrastructure Contractor",
     company: "Minor Planet Center (Contract)",
     companyUrl:
       "https://www.cfa.harvard.edu/facilities-technology/cfa-facilities/minor-planet-center",

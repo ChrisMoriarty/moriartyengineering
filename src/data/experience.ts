@@ -26,7 +26,7 @@ export const EXPERIENCE: ExperienceProp[] = [
       "Docker Compose",
       "Svelte",
     ],
-    logo: "/logos/mpc.png",
+    logo: "/logos/avatar.webp",
   },
   {
     dates: "October 2024 — April 2025",

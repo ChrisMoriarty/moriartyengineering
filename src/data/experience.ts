@@ -4,7 +4,7 @@ export const EXPERIENCE: ExperienceProp[] = [
   {
     dates: "April 2025 — Current",
     title: "Independant Software Engineer",
-    company: "Moriarty Engineering",
+    company: "Moriarty Engineering LLC",
     companyUrl: "https://www.moriartyengineering.com",
     description:
       "I designed and shipped a series of end-to-end software and hardware projects spanning embedded systems, \
